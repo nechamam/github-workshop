@@ -1,3 +1,6 @@
 git example
 edited in branch
 another edit
+another edit
+added a line
+test
